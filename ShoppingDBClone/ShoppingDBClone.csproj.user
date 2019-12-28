@@ -21,6 +21,7 @@
     <WebStackScaffolding_DbContextDialogWidth>600</WebStackScaffolding_DbContextDialogWidth>
     <WebStackScaffolding_DbContextTypeFullName>ShoppingDBClone.Models.ShoppingContext</WebStackScaffolding_DbContextTypeFullName>
     <WebStackScaffolding_IsViewGenerationSelected>True</WebStackScaffolding_IsViewGenerationSelected>
+    <NameOfLastUsedPublishProfile>ShoppingDBClone20191228014944 - Web Deploy</NameOfLastUsedPublishProfile>
   </PropertyGroup>
   <ProjectExtensions>
     <VisualStudio>
